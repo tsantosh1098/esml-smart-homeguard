@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "890840036684",
+    "firebase_url": "https://esml-anamolydetection-default-rtdb.firebaseio.com",
+    "project_id": "esml-anamolydetection",
+    "storage_bucket": "esml-anamolydetection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890840036684:android:03d824808821a9b1398be9",
+        "android_client_info": {
+          "package_name": "com.example.esml"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM5Y2rzVhYLw43iu8wFIqq2n2PoU6KqJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890840036684:android:03fe35a7b03218f9398be9",
+        "android_client_info": {
+          "package_name": "esml.ad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM5Y2rzVhYLw43iu8wFIqq2n2PoU6KqJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
